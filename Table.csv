@@ -1,0 +1,111 @@
+PARPP Real personal income and regional price parities by metro/nonmetro portion 1
+PARPP Real personal income and regional price parities by metro/nonmetro portion 1
+Metropolitan and nonmetropolitan portions
+GeoFips,GeoName,2023
+00000,United States,100.000
+01998,Alabama (Metropolitan Portion),91.436
+01999,Alabama (Nonmetropolitan Portion),84.267
+02998,Alaska (Metropolitan Portion),103.634
+02999,Alaska (Nonmetropolitan Portion),97.218
+04998,Arizona (Metropolitan Portion),101.967
+04999,Arizona (Nonmetropolitan Portion),79.849
+05998,Arkansas (Metropolitan Portion),88.431
+05999,Arkansas (Nonmetropolitan Portion),82.174
+06998,California (Metropolitan Portion),112.780
+06999,California (Nonmetropolitan Portion),102.595
+08998,Colorado (Metropolitan Portion),102.109
+08999,Colorado (Nonmetropolitan Portion),96.246
+09998,Connecticut (Metropolitan Portion),103.896
+09999,Connecticut (Nonmetropolitan Portion),100.174
+10998,Delaware (Metropolitan Portion),99.253
+10999,Delaware (Nonmetropolitan Portion),0.000
+11998,District of Columbia (Metropolitan Portion),110.804
+11999,District of Columbia (Nonmetropolitan Portion),0.000
+12998,Florida (Metropolitan Portion),103.717
+12999,Florida (Nonmetropolitan Portion),93.456
+13998,Georgia (Metropolitan Portion),98.337
+13999,Georgia (Nonmetropolitan Portion),87.019
+15998,Hawaii (Metropolitan Portion),109.673
+15999,Hawaii (Nonmetropolitan Portion),103.860
+16998,Idaho (Metropolitan Portion),92.659
+16999,Idaho (Nonmetropolitan Portion),87.712
+17998,Illinois (Metropolitan Portion),100.252
+17999,Illinois (Nonmetropolitan Portion),85.911
+18998,Indiana (Metropolitan Portion),93.365
+18999,Indiana (Nonmetropolitan Portion),87.420
+19998,Iowa (Metropolitan Portion),91.017
+19999,Iowa (Nonmetropolitan Portion),84.976
+20998,Kansas (Metropolitan Portion),91.768
+20999,Kansas (Nonmetropolitan Portion),84.996
+21998,Kentucky (Metropolitan Portion),92.827
+21999,Kentucky (Nonmetropolitan Portion),86.335
+22998,Louisiana (Metropolitan Portion),89.212
+22999,Louisiana (Nonmetropolitan Portion),82.926
+23998,Maine (Metropolitan Portion),101.269
+23999,Maine (Nonmetropolitan Portion),90.282
+24998,Maryland (Metropolitan Portion),104.261
+24999,Maryland (Nonmetropolitan Portion),92.857
+25998,Massachusetts (Metropolitan Portion),108.229
+25999,Massachusetts (Nonmetropolitan Portion),109.759
+26998,Michigan (Metropolitan Portion),95.817
+26999,Michigan (Nonmetropolitan Portion),86.652
+27998,Minnesota (Metropolitan Portion),101.792
+27999,Minnesota (Nonmetropolitan Portion),85.808
+28998,Mississippi (Metropolitan Portion),90.609
+28999,Mississippi (Nonmetropolitan Portion),83.682
+29998,Missouri (Metropolitan Portion),93.875
+29999,Missouri (Nonmetropolitan Portion),83.707
+30998,Montana (Metropolitan Portion),91.395
+30999,Montana (Nonmetropolitan Portion),89.665
+31998,Nebraska (Metropolitan Portion),92.386
+31999,Nebraska (Nonmetropolitan Portion),85.973
+32998,Nevada (Metropolitan Portion),97.342
+32999,Nevada (Nonmetropolitan Portion),93.249
+33998,New Hampshire (Metropolitan Portion),107.756
+33999,New Hampshire (Nonmetropolitan Portion),101.230
+34998,New Jersey (Metropolitan Portion),108.883
+34999,New Jersey (Nonmetropolitan Portion),0.000
+35998,New Mexico (Metropolitan Portion),92.119
+35999,New Mexico (Nonmetropolitan Portion),86.097
+36998,New York (Metropolitan Portion),108.695
+36999,New York (Nonmetropolitan Portion),91.422
+37998,North Carolina (Metropolitan Portion),95.320
+37999,North Carolina (Nonmetropolitan Portion),87.924
+38998,North Dakota (Metropolitan Portion),89.384
+38999,North Dakota (Nonmetropolitan Portion),87.730
+39998,Ohio (Metropolitan Portion),92.719
+39999,Ohio (Nonmetropolitan Portion),87.446
+40998,Oklahoma (Metropolitan Portion),90.095
+40999,Oklahoma (Nonmetropolitan Portion),83.838
+41998,Oregon (Metropolitan Portion),105.586
+41999,Oregon (Nonmetropolitan Portion),99.524
+42998,Pennsylvania (Metropolitan Portion),98.411
+42999,Pennsylvania (Nonmetropolitan Portion),88.715
+44998,Rhode Island (Metropolitan Portion),101.412
+44999,Rhode Island (Nonmetropolitan Portion),0.000
+45998,South Carolina (Metropolitan Portion),94.209
+45999,South Carolina (Nonmetropolitan Portion),85.665
+46998,South Dakota (Metropolitan Portion),90.145
+46999,South Dakota (Nonmetropolitan Portion),85.737
+47998,Tennessee (Metropolitan Portion),94.212
+47999,Tennessee (Nonmetropolitan Portion),84.996
+48998,Texas (Metropolitan Portion),98.194
+48999,Texas (Nonmetropolitan Portion),87.133
+49998,Utah (Metropolitan Portion),95.655
+49999,Utah (Nonmetropolitan Portion),89.743
+50998,Vermont (Metropolitan Portion),100.040
+50999,Vermont (Nonmetropolitan Portion),94.648
+51998,Virginia (Metropolitan Portion),102.111
+51999,Virginia (Nonmetropolitan Portion),88.214
+53998,Washington (Metropolitan Portion),109.557
+53999,Washington (Nonmetropolitan Portion),98.011
+54998,West Virginia (Metropolitan Portion),90.983
+54999,West Virginia (Nonmetropolitan Portion),87.263
+55998,Wisconsin (Metropolitan Portion),94.492
+55999,Wisconsin (Nonmetropolitan Portion),89.007
+56998,Wyoming (Metropolitan Portion),91.292
+56999,Wyoming (Nonmetropolitan Portion),90.657
+
+Legend/Footnotes
+1. Real personal income for metropolitan and nonmetropolitan state portions is personal income divided by the RPPs and the national PCE price index. The result is a constant dollar (using 2017 as the base year) estimate of real personal income. Calculations are performed on unrounded data.
+"  Last updated: February 20, 2025-- revised statistics for 2010-2019."

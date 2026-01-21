@@ -1,0 +1,523 @@
+﻿Area Name,Annual median wage (2),Occupation
+Alabama (01-00000),"$113,020",Software Developer
+Alaska (02-00000),"$119,600",Software Developer
+Arizona (04-00000),"$128,690",Software Developer
+Arkansas (05-00000),"$96,820",Software Developer
+California (06-00000),"$170,910",Software Developer
+Colorado (08-00000),"$134,540",Software Developer
+Connecticut (09-00000),"$130,870",Software Developer
+Delaware (10-00000),"$135,160",Software Developer
+District of Columbia (11-00000),"$136,040",Software Developer
+Florida (12-00000),"$126,550",Software Developer
+Georgia (13-00000),"$128,920",Software Developer
+Hawaii (15-00000),"$119,880",Software Developer
+Idaho (16-00000),"$107,900",Software Developer
+Illinois (17-00000),"$127,770",Software Developer
+Indiana (18-00000),"$103,570",Software Developer
+Iowa (19-00000),"$109,850",Software Developer
+Kansas (20-00000),"$106,660",Software Developer
+Kentucky (21-00000),"$106,200",Software Developer
+Louisiana (22-00000),"$102,290",Software Developer
+Maine (23-00000),"$113,800",Software Developer
+Maryland (24-00000),"$137,890",Software Developer
+Massachusetts (25-00000),"$150,520",Software Developer
+Michigan (26-00000),"$107,820",Software Developer
+Minnesota (27-00000),"$124,540",Software Developer
+Mississippi (28-00000),"$86,460",Software Developer
+Missouri (29-00000),"$114,550",Software Developer
+Montana (30-00000),"$100,190",Software Developer
+Nebraska (31-00000),"$116,420",Software Developer
+Nevada (32-00000),"$129,030",Software Developer
+New Hampshire (33-00000),"$132,420",Software Developer
+New Jersey (34-00000),"$132,400",Software Developer
+New Mexico (35-00000),"$120,820",Software Developer
+New York (36-00000),"$161,260",Software Developer
+North Carolina (37-00000),"$131,000",Software Developer
+North Dakota (38-00000),"$98,550",Software Developer
+Ohio (39-00000),"$107,690",Software Developer
+Oklahoma (40-00000),"$107,420",Software Developer
+Oregon (41-00000),"$135,260",Software Developer
+Pennsylvania (42-00000),"$123,740",Software Developer
+Puerto Rico (72-00000),"$64,350",Software Developer
+Rhode Island (44-00000),"$128,660",Software Developer
+South Carolina (45-00000),"$108,690",Software Developer
+South Dakota (46-00000),"$87,770",Software Developer
+Tennessee (47-00000),"$117,340",Software Developer
+Texas (48-00000),"$130,500",Software Developer
+Utah (49-00000),"$127,390",Software Developer
+Vermont (50-00000),"$130,720",Software Developer
+Virgin Islands (78-00000),"$162,820",Software Developer
+Virginia (51-00000),"$134,470",Software Developer
+Washington (53-00000),"$166,910",Software Developer
+West Virginia (54-00000),"$103,550",Software Developer
+Wisconsin (55-00000),"$103,360",Software Developer
+Wyoming (56-00000),"$112,590",Software Developer
+Alabama (01-00000),"$105,410",Data Scientist
+Alaska (02-00000),"$77,400",Data Scientist
+Arizona (04-00000),"$106,080",Data Scientist
+Arkansas (05-00000),"$104,320",Data Scientist
+California (06-00000),"$136,800",Data Scientist
+Colorado (08-00000),"$106,500",Data Scientist
+Connecticut (09-00000),"$109,960",Data Scientist
+Delaware (10-00000),(8) -,Data Scientist
+District of Columbia (11-00000),"$137,120",Data Scientist
+Florida (12-00000),"$105,820",Data Scientist
+Georgia (13-00000),"$102,630",Data Scientist
+Hawaii (15-00000),"$123,880",Data Scientist
+Idaho (16-00000),"$109,340",Data Scientist
+Illinois (17-00000),"$113,490",Data Scientist
+Indiana (18-00000),"$84,050",Data Scientist
+Iowa (19-00000),"$97,980",Data Scientist
+Kansas (20-00000),"$110,320",Data Scientist
+Kentucky (21-00000),"$93,490",Data Scientist
+Louisiana (22-00000),"$70,530",Data Scientist
+Maine (23-00000),"$94,350",Data Scientist
+Maryland (24-00000),"$124,340",Data Scientist
+Massachusetts (25-00000),"$132,250",Data Scientist
+Michigan (26-00000),"$99,470",Data Scientist
+Minnesota (27-00000),"$117,840",Data Scientist
+Mississippi (28-00000),"$69,430",Data Scientist
+Missouri (29-00000),"$85,570",Data Scientist
+Montana (30-00000),"$106,860",Data Scientist
+Nebraska (31-00000),"$96,470",Data Scientist
+Nevada (32-00000),"$93,310",Data Scientist
+New Hampshire (33-00000),"$98,970",Data Scientist
+New Jersey (34-00000),"$130,370",Data Scientist
+New Mexico (35-00000),"$85,040",Data Scientist
+New York (36-00000),"$125,400",Data Scientist
+North Carolina (37-00000),"$115,380",Data Scientist
+North Dakota (38-00000),"$96,230",Data Scientist
+Ohio (39-00000),"$98,620",Data Scientist
+Oklahoma (40-00000),"$80,380",Data Scientist
+Oregon (41-00000),"$106,100",Data Scientist
+Pennsylvania (42-00000),"$100,320",Data Scientist
+Puerto Rico (72-00000),"$70,690",Data Scientist
+Rhode Island (44-00000),"$114,390",Data Scientist
+South Carolina (45-00000),"$90,660",Data Scientist
+South Dakota (46-00000),"$92,000",Data Scientist
+Tennessee (47-00000),"$104,700",Data Scientist
+Texas (48-00000),"$106,540",Data Scientist
+Utah (49-00000),"$116,420",Data Scientist
+Vermont (50-00000),"$120,670",Data Scientist
+Virginia (51-00000),"$126,070",Data Scientist
+Washington (53-00000),"$158,760",Data Scientist
+West Virginia (54-00000),"$95,760",Data Scientist
+Wisconsin (55-00000),"$100,020",Data Scientist
+Wyoming (56-00000),"$95,840",Data Scientist
+Alabama (01-00000),"$103,400",Economist
+Alaska (02-00000),"$108,960",Economist
+Arizona (04-00000),"$96,390",Economist
+Arkansas (05-00000),(8) -,Economist
+California (06-00000),"$100,510",Economist
+Colorado (08-00000),"$111,540",Economist
+Connecticut (09-00000),"$103,200",Economist
+District of Columbia (11-00000),"$162,610",Economist
+Florida (12-00000),"$89,250",Economist
+Georgia (13-00000),"$127,220",Economist
+Hawaii (15-00000),"$81,740",Economist
+Idaho (16-00000),"$78,770",Economist
+Illinois (17-00000),"$112,790",Economist
+Indiana (18-00000),"$95,830",Economist
+Iowa (19-00000),"$92,750",Economist
+Kansas (20-00000),"$115,100",Economist
+Kentucky (21-00000),"$65,470",Economist
+Louisiana (22-00000),"$89,010",Economist
+Maine (23-00000),"$80,670",Economist
+Maryland (24-00000),"$137,610",Economist
+Massachusetts (25-00000),"$103,170",Economist
+Michigan (26-00000),"$94,850",Economist
+Minnesota (27-00000),"$107,470",Economist
+Missouri (29-00000),"$115,520",Economist
+Montana (30-00000),"$95,990",Economist
+Nebraska (31-00000),"$66,690",Economist
+Nevada (32-00000),"$84,540",Economist
+New Jersey (34-00000),"$102,350",Economist
+New Mexico (35-00000),"$82,490",Economist
+New York (36-00000),"$142,300",Economist
+North Carolina (37-00000),"$111,770",Economist
+Ohio (39-00000),"$117,750",Economist
+Oklahoma (40-00000),"$82,330",Economist
+Oregon (41-00000),"$111,660",Economist
+Pennsylvania (42-00000),"$113,300",Economist
+Puerto Rico (72-00000),"$68,180",Economist
+South Carolina (45-00000),"$51,980",Economist
+Tennessee (47-00000),"$110,320",Economist
+Texas (48-00000),"$106,200",Economist
+Utah (49-00000),(8) -,Economist
+Virginia (51-00000),"$148,010",Economist
+Washington (53-00000),"$116,390",Economist
+Wisconsin (55-00000),"$76,940",Economist
+Alabama (01-00000),"$71,040",Registered Nurse
+Alaska (02-00000),"$110,690",Registered Nurse
+Arizona (04-00000),"$96,890",Registered Nurse
+Arkansas (05-00000),"$77,130",Registered Nurse
+California (06-00000),"$140,330",Registered Nurse
+Colorado (08-00000),"$96,520",Registered Nurse
+Connecticut (09-00000),"$101,590",Registered Nurse
+Delaware (10-00000),"$92,610",Registered Nurse
+District of Columbia (11-00000),"$104,550",Registered Nurse
+Florida (12-00000),"$82,850",Registered Nurse
+Georgia (13-00000),"$86,560",Registered Nurse
+Guam (66-00000),(8) -,Registered Nurse
+Hawaii (15-00000),"$136,320",Registered Nurse
+Idaho (16-00000),"$86,100",Registered Nurse
+Illinois (17-00000),"$86,410",Registered Nurse
+Indiana (18-00000),"$80,740",Registered Nurse
+Iowa (19-00000),"$76,960",Registered Nurse
+Kansas (20-00000),"$78,060",Registered Nurse
+Kentucky (21-00000),"$79,910",Registered Nurse
+Louisiana (22-00000),"$78,880",Registered Nurse
+Maine (23-00000),"$82,860",Registered Nurse
+Maryland (24-00000),"$96,830",Registered Nurse
+Massachusetts (25-00000),"$101,970",Registered Nurse
+Michigan (26-00000),"$85,670",Registered Nurse
+Minnesota (27-00000),"$100,870",Registered Nurse
+Mississippi (28-00000),"$74,470",Registered Nurse
+Missouri (29-00000),"$79,770",Registered Nurse
+Montana (30-00000),"$81,560",Registered Nurse
+Nebraska (31-00000),"$81,020",Registered Nurse
+Nevada (32-00000),"$101,990",Registered Nurse
+New Hampshire (33-00000),"$96,830",Registered Nurse
+New Jersey (34-00000),"$102,730",Registered Nurse
+New Mexico (35-00000),"$88,260",Registered Nurse
+New York (36-00000),"$105,600",Registered Nurse
+North Carolina (37-00000),"$81,860",Registered Nurse
+North Dakota (38-00000),"$78,260",Registered Nurse
+Ohio (39-00000),"$81,250",Registered Nurse
+Oklahoma (40-00000),"$81,160",Registered Nurse
+Oregon (41-00000),"$123,990",Registered Nurse
+Pennsylvania (42-00000),"$87,610",Registered Nurse
+Puerto Rico (72-00000),"$37,780",Registered Nurse
+Rhode Island (44-00000),"$99,960",Registered Nurse
+South Carolina (45-00000),"$79,900",Registered Nurse
+South Dakota (46-00000),"$69,510",Registered Nurse
+Tennessee (47-00000),"$79,030",Registered Nurse
+Texas (48-00000),"$90,010",Registered Nurse
+Utah (49-00000),"$82,270",Registered Nurse
+Vermont (50-00000),"$85,150",Registered Nurse
+Virgin Islands (78-00000),"$73,890",Registered Nurse
+Virginia (51-00000),"$88,820",Registered Nurse
+Washington (53-00000),"$112,180",Registered Nurse
+West Virginia (54-00000),"$79,990",Registered Nurse
+Wisconsin (55-00000),"$86,070",Registered Nurse
+Wyoming (56-00000),"$81,790",Registered Nurse
+Alabama (01-00000),"$60,390",Machinery Mechanic
+Alaska (02-00000),"$86,590",Machinery Mechanic
+Arizona (04-00000),"$64,840",Machinery Mechanic
+Arkansas (05-00000),"$58,410",Machinery Mechanic
+California (06-00000),"$73,840",Machinery Mechanic
+Colorado (08-00000),"$73,770",Machinery Mechanic
+Connecticut (09-00000),"$73,530",Machinery Mechanic
+Delaware (10-00000),"$65,560",Machinery Mechanic
+District of Columbia (11-00000),"$85,380",Machinery Mechanic
+Florida (12-00000),"$60,340",Machinery Mechanic
+Georgia (13-00000),"$60,100",Machinery Mechanic
+Guam (66-00000),"$55,060",Machinery Mechanic
+Hawaii (15-00000),"$80,180",Machinery Mechanic
+Idaho (16-00000),"$62,570",Machinery Mechanic
+Illinois (17-00000),"$66,770",Machinery Mechanic
+Indiana (18-00000),"$65,670",Machinery Mechanic
+Iowa (19-00000),"$65,090",Machinery Mechanic
+Kansas (20-00000),"$70,170",Machinery Mechanic
+Kentucky (21-00000),"$64,060",Machinery Mechanic
+Louisiana (22-00000),"$63,830",Machinery Mechanic
+Maine (23-00000),"$65,190",Machinery Mechanic
+Maryland (24-00000),"$64,080",Machinery Mechanic
+Massachusetts (25-00000),"$70,540",Machinery Mechanic
+Michigan (26-00000),"$63,030",Machinery Mechanic
+Minnesota (27-00000),"$68,160",Machinery Mechanic
+Mississippi (28-00000),"$57,220",Machinery Mechanic
+Missouri (29-00000),"$61,270",Machinery Mechanic
+Montana (30-00000),"$69,880",Machinery Mechanic
+Nebraska (31-00000),"$63,130",Machinery Mechanic
+Nevada (32-00000),"$75,490",Machinery Mechanic
+New Hampshire (33-00000),"$61,360",Machinery Mechanic
+New Jersey (34-00000),"$73,000",Machinery Mechanic
+New Mexico (35-00000),"$59,420",Machinery Mechanic
+New York (36-00000),"$67,010",Machinery Mechanic
+North Carolina (37-00000),"$60,860",Machinery Mechanic
+North Dakota (38-00000),"$65,070",Machinery Mechanic
+Ohio (39-00000),"$63,650",Machinery Mechanic
+Oklahoma (40-00000),"$62,530",Machinery Mechanic
+Oregon (41-00000),"$71,430",Machinery Mechanic
+Pennsylvania (42-00000),"$63,830",Machinery Mechanic
+Puerto Rico (72-00000),"$34,770",Machinery Mechanic
+Rhode Island (44-00000),"$63,870",Machinery Mechanic
+South Carolina (45-00000),"$61,260",Machinery Mechanic
+South Dakota (46-00000),"$59,690",Machinery Mechanic
+Tennessee (47-00000),"$62,830",Machinery Mechanic
+Texas (48-00000),"$61,590",Machinery Mechanic
+Utah (49-00000),"$69,670",Machinery Mechanic
+Vermont (50-00000),"$62,520",Machinery Mechanic
+Virginia (51-00000),"$62,940",Machinery Mechanic
+Washington (53-00000),"$75,220",Machinery Mechanic
+West Virginia (54-00000),"$61,400",Machinery Mechanic
+Wisconsin (55-00000),"$64,520",Machinery Mechanic
+Wyoming (56-00000),"$74,510",Machinery Mechanic
+Alabama (01-00000),"$33,280",Farmer
+Alaska (02-00000),"$35,750",Farmer
+Arizona (04-00000),"$34,180",Farmer
+Arkansas (05-00000),"$31,220",Farmer
+California (06-00000),"$35,770",Farmer
+Colorado (08-00000),"$38,870",Farmer
+Connecticut (09-00000),"$36,180",Farmer
+Delaware (10-00000),"$29,860",Farmer
+District of Columbia (11-00000),"$41,610",Farmer
+Florida (12-00000),"$29,780",Farmer
+Georgia (13-00000),"$28,990",Farmer
+Hawaii (15-00000),"$36,110",Farmer
+Idaho (16-00000),"$33,050",Farmer
+Illinois (17-00000),"$40,400",Farmer
+Indiana (18-00000),"$37,930",Farmer
+Iowa (19-00000),"$33,950",Farmer
+Kansas (20-00000),"$33,530",Farmer
+Kentucky (21-00000),"$31,400",Farmer
+Louisiana (22-00000),"$30,170",Farmer
+Maine (23-00000),"$43,870",Farmer
+Maryland (24-00000),"$38,170",Farmer
+Massachusetts (25-00000),"$40,370",Farmer
+Michigan (26-00000),"$36,440",Farmer
+Minnesota (27-00000),"$38,900",Farmer
+Mississippi (28-00000),"$30,670",Farmer
+Missouri (29-00000),"$36,760",Farmer
+Montana (30-00000),"$41,840",Farmer
+Nebraska (31-00000),"$43,980",Farmer
+Nevada (32-00000),"$35,540",Farmer
+New Hampshire (33-00000),"$31,230",Farmer
+New Jersey (34-00000),"$37,580",Farmer
+New Mexico (35-00000),"$29,690",Farmer
+New York (36-00000),"$39,370",Farmer
+North Carolina (37-00000),"$33,690",Farmer
+North Dakota (38-00000),"$31,290",Farmer
+Ohio (39-00000),"$33,200",Farmer
+Oklahoma (40-00000),"$33,210",Farmer
+Oregon (41-00000),"$35,050",Farmer
+Pennsylvania (42-00000),"$36,940",Farmer
+Puerto Rico (72-00000),"$21,460",Farmer
+Rhode Island (44-00000),"$37,200",Farmer
+South Carolina (45-00000),"$35,230",Farmer
+South Dakota (46-00000),"$36,990",Farmer
+Tennessee (47-00000),"$31,200",Farmer
+Texas (48-00000),"$31,790",Farmer
+Utah (49-00000),"$33,200",Farmer
+Vermont (50-00000),"$35,860",Farmer
+Virginia (51-00000),"$36,750",Farmer
+Washington (53-00000),"$37,090",Farmer
+West Virginia (54-00000),"$29,320",Farmer
+Wisconsin (55-00000),"$34,880",Farmer
+Wyoming (56-00000),"$44,760",Farmer
+Alabama (01-00000),"$115,870",Electrical Engineer
+Alaska (02-00000),"$108,780",Electrical Engineer
+Arizona (04-00000),"$110,510",Electrical Engineer
+Arkansas (05-00000),"$96,500",Electrical Engineer
+California (06-00000),"$140,360",Electrical Engineer
+Colorado (08-00000),"$112,880",Electrical Engineer
+Connecticut (09-00000),"$103,480",Electrical Engineer
+Delaware (10-00000),"$111,720",Electrical Engineer
+District of Columbia (11-00000),"$138,860",Electrical Engineer
+Florida (12-00000),"$108,450",Electrical Engineer
+Georgia (13-00000),"$104,170",Electrical Engineer
+Guam (66-00000),"$60,850",Electrical Engineer
+Hawaii (15-00000),"$105,060",Electrical Engineer
+Idaho (16-00000),"$128,960",Electrical Engineer
+Illinois (17-00000),"$104,000",Electrical Engineer
+Indiana (18-00000),"$101,520",Electrical Engineer
+Iowa (19-00000),"$107,270",Electrical Engineer
+Kansas (20-00000),"$97,680",Electrical Engineer
+Kentucky (21-00000),"$95,640",Electrical Engineer
+Louisiana (22-00000),"$108,620",Electrical Engineer
+Maine (23-00000),"$111,110",Electrical Engineer
+Maryland (24-00000),"$124,450",Electrical Engineer
+Massachusetts (25-00000),"$126,010",Electrical Engineer
+Michigan (26-00000),"$102,990",Electrical Engineer
+Minnesota (27-00000),"$105,160",Electrical Engineer
+Mississippi (28-00000),"$100,840",Electrical Engineer
+Missouri (29-00000),"$106,100",Electrical Engineer
+Montana (30-00000),"$99,230",Electrical Engineer
+Nebraska (31-00000),"$103,720",Electrical Engineer
+Nevada (32-00000),"$104,840",Electrical Engineer
+New Hampshire (33-00000),"$131,790",Electrical Engineer
+New Jersey (34-00000),"$125,120",Electrical Engineer
+New Mexico (35-00000),"$143,850",Electrical Engineer
+New York (36-00000),"$112,550",Electrical Engineer
+North Carolina (37-00000),"$107,760",Electrical Engineer
+North Dakota (38-00000),"$108,520",Electrical Engineer
+Ohio (39-00000),"$100,040",Electrical Engineer
+Oklahoma (40-00000),"$104,200",Electrical Engineer
+Oregon (41-00000),"$109,660",Electrical Engineer
+Pennsylvania (42-00000),"$109,730",Electrical Engineer
+Puerto Rico (72-00000),"$64,620",Electrical Engineer
+Rhode Island (44-00000),"$104,530",Electrical Engineer
+South Carolina (45-00000),"$104,210",Electrical Engineer
+South Dakota (46-00000),"$101,930",Electrical Engineer
+Tennessee (47-00000),"$109,870",Electrical Engineer
+Texas (48-00000),"$105,560",Electrical Engineer
+Utah (49-00000),"$107,520",Electrical Engineer
+Vermont (50-00000),"$118,050",Electrical Engineer
+Virginia (51-00000),"$122,320",Electrical Engineer
+Washington (53-00000),"$130,730",Electrical Engineer
+West Virginia (54-00000),"$108,480",Electrical Engineer
+Wisconsin (55-00000),"$99,170",Electrical Engineer
+Wyoming (56-00000),"$111,740",Electrical Engineer
+Alabama (01-00000),"$64,880",Urban and Regional Planning
+Alaska (02-00000),"$85,970",Urban and Regional Planning
+Arizona (04-00000),"$78,200",Urban and Regional Planning
+Arkansas (05-00000),"$60,800",Urban and Regional Planning
+California (06-00000),"$105,230",Urban and Regional Planning
+Colorado (08-00000),"$96,810",Urban and Regional Planning
+Connecticut (09-00000),"$94,960",Urban and Regional Planning
+Delaware (10-00000),"$66,410",Urban and Regional Planning
+District of Columbia (11-00000),"$129,750",Urban and Regional Planning
+Florida (12-00000),"$77,190",Urban and Regional Planning
+Georgia (13-00000),"$75,990",Urban and Regional Planning
+Guam (66-00000),"$83,570",Urban and Regional Planning
+Hawaii (15-00000),"$80,170",Urban and Regional Planning
+Idaho (16-00000),"$67,000",Urban and Regional Planning
+Illinois (17-00000),"$80,140",Urban and Regional Planning
+Indiana (18-00000),"$66,380",Urban and Regional Planning
+Iowa (19-00000),"$75,810",Urban and Regional Planning
+Kansas (20-00000),"$83,660",Urban and Regional Planning
+Kentucky (21-00000),"$72,550",Urban and Regional Planning
+Louisiana (22-00000),"$64,800",Urban and Regional Planning
+Maine (23-00000),"$75,610",Urban and Regional Planning
+Maryland (24-00000),"$86,800",Urban and Regional Planning
+Massachusetts (25-00000),"$88,030",Urban and Regional Planning
+Michigan (26-00000),"$76,380",Urban and Regional Planning
+Minnesota (27-00000),"$91,810",Urban and Regional Planning
+Mississippi (28-00000),"$62,330",Urban and Regional Planning
+Missouri (29-00000),"$77,360",Urban and Regional Planning
+Montana (30-00000),"$75,950",Urban and Regional Planning
+Nebraska (31-00000),"$65,070",Urban and Regional Planning
+Nevada (32-00000),"$88,750",Urban and Regional Planning
+New Hampshire (33-00000),"$78,070",Urban and Regional Planning
+New Jersey (34-00000),"$84,730",Urban and Regional Planning
+New Mexico (35-00000),"$66,570",Urban and Regional Planning
+New York (36-00000),"$94,740",Urban and Regional Planning
+North Carolina (37-00000),"$78,320",Urban and Regional Planning
+North Dakota (38-00000),"$84,450",Urban and Regional Planning
+Ohio (39-00000),"$74,340",Urban and Regional Planning
+Oklahoma (40-00000),"$77,620",Urban and Regional Planning
+Oregon (41-00000),"$92,400",Urban and Regional Planning
+Pennsylvania (42-00000),"$75,250",Urban and Regional Planning
+Puerto Rico (72-00000),"$46,720",Urban and Regional Planning
+Rhode Island (44-00000),"$85,900",Urban and Regional Planning
+South Carolina (45-00000),"$65,580",Urban and Regional Planning
+South Dakota (46-00000),"$68,080",Urban and Regional Planning
+Tennessee (47-00000),"$67,790",Urban and Regional Planning
+Texas (48-00000),"$78,180",Urban and Regional Planning
+Utah (49-00000),"$75,480",Urban and Regional Planning
+Vermont (50-00000),"$82,230",Urban and Regional Planning
+Virginia (51-00000),"$81,750",Urban and Regional Planning
+Washington (53-00000),"$98,190",Urban and Regional Planning
+West Virginia (54-00000),"$58,240",Urban and Regional Planning
+Wisconsin (55-00000),"$76,580",Urban and Regional Planning
+Wyoming (56-00000),"$69,590",Urban and Regional Planning
+Alabama (01-00000),"$127,660",Lawyer
+Alaska (02-00000),"$132,710",Lawyer
+Arizona (04-00000),"$133,360",Lawyer
+Arkansas (05-00000),"$86,970",Lawyer
+California (06-00000),"$197,790",Lawyer
+Colorado (08-00000),"$167,970",Lawyer
+Connecticut (09-00000),"$159,240",Lawyer
+Delaware (10-00000),"$172,710",Lawyer
+District of Columbia (11-00000),"$191,880",Lawyer
+Florida (12-00000),"$127,810",Lawyer
+Georgia (13-00000),"$126,240",Lawyer
+Guam (66-00000),"$125,000",Lawyer
+Hawaii (15-00000),"$116,010",Lawyer
+Idaho (16-00000),"$102,280",Lawyer
+Illinois (17-00000),"$157,320",Lawyer
+Indiana (18-00000),"$130,120",Lawyer
+Iowa (19-00000),"$107,870",Lawyer
+Kansas (20-00000),"$112,000",Lawyer
+Kentucky (21-00000),"$102,670",Lawyer
+Louisiana (22-00000),"$112,600",Lawyer
+Maine (23-00000),"$100,340",Lawyer
+Maryland (24-00000),"$143,490",Lawyer
+Massachusetts (25-00000),"$179,050",Lawyer
+Michigan (26-00000),"$126,600",Lawyer
+Minnesota (27-00000),"$137,720",Lawyer
+Mississippi (28-00000),"$92,610",Lawyer
+Missouri (29-00000),"$124,210",Lawyer
+Montana (30-00000),"$100,750",Lawyer
+Nebraska (31-00000),"$104,970",Lawyer
+Nevada (32-00000),(8) -,Lawyer
+New Hampshire (33-00000),"$122,640",Lawyer
+New Jersey (34-00000),"$158,470",Lawyer
+New Mexico (35-00000),"$112,500",Lawyer
+New York (36-00000),"$177,210",Lawyer
+North Carolina (37-00000),"$124,880",Lawyer
+North Dakota (38-00000),"$104,940",Lawyer
+Ohio (39-00000),"$125,450",Lawyer
+Oklahoma (40-00000),"$98,870",Lawyer
+Oregon (41-00000),"$141,520",Lawyer
+Pennsylvania (42-00000),"$127,940",Lawyer
+Puerto Rico (72-00000),(8) -,Lawyer
+Rhode Island (44-00000),"$128,920",Lawyer
+South Carolina (45-00000),"$104,160",Lawyer
+South Dakota (46-00000),"$96,550",Lawyer
+Tennessee (47-00000),"$130,570",Lawyer
+Texas (48-00000),"$133,570",Lawyer
+Utah (49-00000),"$125,710",Lawyer
+Vermont (50-00000),"$101,090",Lawyer
+Virgin Islands (78-00000),"$117,990",Lawyer
+Virginia (51-00000),"$157,980",Lawyer
+Washington (53-00000),"$151,950",Lawyer
+West Virginia (54-00000),"$102,240",Lawyer
+Wisconsin (55-00000),"$119,970",Lawyer
+Wyoming (56-00000),"$100,170",Lawyer
+Alabama (01-00000),"$48,130",Graphic Designer
+Alaska (02-00000),"$55,230",Graphic Designer
+Arizona (04-00000),"$52,240",Graphic Designer
+Arkansas (05-00000),"$46,430",Graphic Designer
+California (06-00000),"$76,440",Graphic Designer
+Colorado (08-00000),"$66,360",Graphic Designer
+Connecticut (09-00000),"$65,360",Graphic Designer
+Delaware (10-00000),"$56,160",Graphic Designer
+District of Columbia (11-00000),"$90,710",Graphic Designer
+Florida (12-00000),"$57,900",Graphic Designer
+Georgia (13-00000),"$57,860",Graphic Designer
+Guam (66-00000),"$31,240",Graphic Designer
+Hawaii (15-00000),"$51,630",Graphic Designer
+Idaho (16-00000),"$48,640",Graphic Designer
+Illinois (17-00000),"$60,010",Graphic Designer
+Indiana (18-00000),"$56,440",Graphic Designer
+Iowa (19-00000),"$47,560",Graphic Designer
+Kansas (20-00000),"$49,820",Graphic Designer
+Kentucky (21-00000),"$50,330",Graphic Designer
+Louisiana (22-00000),"$46,300",Graphic Designer
+Maine (23-00000),"$53,490",Graphic Designer
+Maryland (24-00000),"$66,290",Graphic Designer
+Massachusetts (25-00000),"$76,370",Graphic Designer
+Michigan (26-00000),"$52,600",Graphic Designer
+Minnesota (27-00000),"$58,590",Graphic Designer
+Mississippi (28-00000),"$45,260",Graphic Designer
+Missouri (29-00000),"$50,900",Graphic Designer
+Montana (30-00000),"$55,370",Graphic Designer
+Nebraska (31-00000),"$52,420",Graphic Designer
+Nevada (32-00000),"$57,180",Graphic Designer
+New Hampshire (33-00000),"$57,310",Graphic Designer
+New Jersey (34-00000),"$66,600",Graphic Designer
+New Mexico (35-00000),"$57,780",Graphic Designer
+New York (36-00000),"$74,530",Graphic Designer
+North Carolina (37-00000),"$50,600",Graphic Designer
+North Dakota (38-00000),"$47,900",Graphic Designer
+Ohio (39-00000),"$55,140",Graphic Designer
+Oklahoma (40-00000),"$50,310",Graphic Designer
+Oregon (41-00000),"$63,800",Graphic Designer
+Pennsylvania (42-00000),"$52,990",Graphic Designer
+Puerto Rico (72-00000),"$29,500",Graphic Designer
+Rhode Island (44-00000),"$64,190",Graphic Designer
+South Carolina (45-00000),"$56,180",Graphic Designer
+South Dakota (46-00000),"$43,950",Graphic Designer
+Tennessee (47-00000),"$51,740",Graphic Designer
+Texas (48-00000),"$62,030",Graphic Designer
+Utah (49-00000),"$59,010",Graphic Designer
+Vermont (50-00000),"$62,180",Graphic Designer
+Virginia (51-00000),"$70,060",Graphic Designer
+Washington (53-00000),"$76,010",Graphic Designer
+West Virginia (54-00000),"$36,870",Graphic Designer
+Wisconsin (55-00000),"$58,380",Graphic Designer
+Wyoming (56-00000),"$43,290",Graphic Designer
+,,
+,,
