@@ -1,0 +1,469 @@
+Area Name,"Employment per 1,000 jobs",Occupation
+Alabama (01-00000),8.616,Software Developer
+Alaska (02-00000),1.352,Software Developer
+Arizona (04-00000),11.153,Software Developer
+Arkansas (05-00000),4.959,Software Developer
+California (06-00000),16.205,Software Developer
+Colorado (08-00000),16.942,Software Developer
+Connecticut (09-00000),9.803,Software Developer
+Delaware (10-00000),8.084,Software Developer
+District of Columbia (11-00000),11.638,Software Developer
+Florida (12-00000),8.412,Software Developer
+Georgia (13-00000),9.751,Software Developer
+Hawaii (15-00000),3.125,Software Developer
+Idaho (16-00000),5.868,Software Developer
+Illinois (17-00000),8.984,Software Developer
+Indiana (18-00000),3.984,Software Developer
+Iowa (19-00000),6.298,Software Developer
+Kansas (20-00000),11.077,Software Developer
+Kentucky (21-00000),3.547,Software Developer
+Louisiana (22-00000),2.027,Software Developer
+Maine (23-00000),4.318,Software Developer
+Maryland (24-00000),11.628,Software Developer
+Massachusetts (25-00000),14.895,Software Developer
+Michigan (26-00000),9.450,Software Developer
+Minnesota (27-00000),13.553,Software Developer
+Mississippi (28-00000),2.757,Software Developer
+Missouri (29-00000),5.845,Software Developer
+Montana (30-00000),4.061,Software Developer
+Nebraska (31-00000),8.795,Software Developer
+Nevada (32-00000),3.032,Software Developer
+New Hampshire (33-00000),11.722,Software Developer
+New Jersey (34-00000),13.438,Software Developer
+New Mexico (35-00000),5.591,Software Developer
+New York (36-00000),10.913,Software Developer
+North Carolina (37-00000),11.757,Software Developer
+North Dakota (38-00000),3.553,Software Developer
+Ohio (39-00000),8.013,Software Developer
+Oklahoma (40-00000),4.225,Software Developer
+Oregon (41-00000),10.736,Software Developer
+Pennsylvania (42-00000),7.873,Software Developer
+Puerto Rico (72-00000),1.685,Software Developer
+Rhode Island (44-00000),12.176,Software Developer
+South Carolina (45-00000),5.384,Software Developer
+South Dakota (46-00000),4.827,Software Developer
+Tennessee (47-00000),5.727,Software Developer
+Texas (48-00000),10.938,Software Developer
+Utah (49-00000),17.053,Software Developer
+Vermont (50-00000),(8) -,Software Developer
+Virgin Islands (78-00000),1.272,Software Developer
+Virginia (51-00000),20.492,Software Developer
+Washington (53-00000),25.840,Software Developer
+West Virginia (54-00000),3.245,Software Developer
+Wisconsin (55-00000),7.582,Software Developer
+Wyoming (56-00000),3.670,Software Developer
+Alabama (01-00000),0.018,Economist
+Alaska (02-00000),(8) -,Economist
+Arizona (04-00000),(8) -,Economist
+Arkansas (05-00000),0.045,Economist
+California (06-00000),0.078,Economist
+Colorado (08-00000),0.080,Economist
+Connecticut (09-00000),0.117,Economist
+District of Columbia (11-00000),4.248,Economist
+Florida (12-00000),0.047,Economist
+Georgia (13-00000),0.070,Economist
+Hawaii (15-00000),0.090,Economist
+Idaho (16-00000),0.128,Economist
+Illinois (17-00000),0.098,Economist
+Indiana (18-00000),0.020,Economist
+Iowa (19-00000),0.047,Economist
+Kansas (20-00000),0.079,Economist
+Kentucky (21-00000),0.082,Economist
+Louisiana (22-00000),0.039,Economist
+Maine (23-00000),0.089,Economist
+Maryland (24-00000),0.334,Economist
+Massachusetts (25-00000),0.211,Economist
+Michigan (26-00000),0.064,Economist
+Minnesota (27-00000),0.071,Economist
+Missouri (29-00000),0.070,Economist
+Montana (30-00000),0.135,Economist
+Nebraska (31-00000),0.090,Economist
+Nevada (32-00000),0.062,Economist
+New Jersey (34-00000),0.025,Economist
+New Mexico (35-00000),(8) -,Economist
+New York (36-00000),0.092,Economist
+North Carolina (37-00000),0.050,Economist
+Ohio (39-00000),0.024,Economist
+Oklahoma (40-00000),(8) -,Economist
+Oregon (41-00000),0.138,Economist
+Pennsylvania (42-00000),0.117,Economist
+Puerto Rico (72-00000),0.087,Economist
+South Carolina (45-00000),0.291,Economist
+Tennessee (47-00000),(8) -,Economist
+Texas (48-00000),0.045,Economist
+Utah (49-00000),0.040,Economist
+Virginia (51-00000),0.239,Economist
+Washington (53-00000),0.134,Economist
+Wisconsin (55-00000),0.112,Economist
+Alabama (01-00000),0.773,Data Scientist
+Alaska (02-00000),0.651,Data Scientist
+Arizona (04-00000),1.275,Data Scientist
+Arkansas (05-00000),0.366,Data Scientist
+California (06-00000),2.041,Data Scientist
+Colorado (08-00000),2.334,Data Scientist
+Connecticut (09-00000),0.972,Data Scientist
+Delaware (10-00000),1.129,Data Scientist
+District of Columbia (11-00000),5.047,Data Scientist
+Florida (12-00000),0.965,Data Scientist
+Georgia (13-00000),1.591,Data Scientist
+Hawaii (15-00000),0.383,Data Scientist
+Idaho (16-00000),1.157,Data Scientist
+Illinois (17-00000),1.218,Data Scientist
+Indiana (18-00000),0.979,Data Scientist
+Iowa (19-00000),1.490,Data Scientist
+Kansas (20-00000),0.237,Data Scientist
+Kentucky (21-00000),0.852,Data Scientist
+Louisiana (22-00000),0.585,Data Scientist
+Maine (23-00000),1.641,Data Scientist
+Maryland (24-00000),1.239,Data Scientist
+Massachusetts (25-00000),2.743,Data Scientist
+Michigan (26-00000),1.470,Data Scientist
+Minnesota (27-00000),1.199,Data Scientist
+Mississippi (28-00000),0.232,Data Scientist
+Missouri (29-00000),1.491,Data Scientist
+Montana (30-00000),0.394,Data Scientist
+Nebraska (31-00000),1.817,Data Scientist
+Nevada (32-00000),0.802,Data Scientist
+New Hampshire (33-00000),1.278,Data Scientist
+New Jersey (34-00000),1.379,Data Scientist
+New Mexico (35-00000),0.589,Data Scientist
+New York (36-00000),2.103,Data Scientist
+North Carolina (37-00000),2.071,Data Scientist
+North Dakota (38-00000),0.747,Data Scientist
+Ohio (39-00000),0.996,Data Scientist
+Oklahoma (40-00000),1.276,Data Scientist
+Oregon (41-00000),1.349,Data Scientist
+Pennsylvania (42-00000),1.734,Data Scientist
+Puerto Rico (72-00000),0.122,Data Scientist
+Rhode Island (44-00000),2.412,Data Scientist
+South Carolina (45-00000),1.239,Data Scientist
+South Dakota (46-00000),0.586,Data Scientist
+Tennessee (47-00000),0.778,Data Scientist
+Texas (48-00000),1.691,Data Scientist
+Utah (49-00000),2.827,Data Scientist
+Vermont (50-00000),0.698,Data Scientist
+Virginia (51-00000),1.525,Data Scientist
+Washington (53-00000),2.240,Data Scientist
+West Virginia (54-00000),0.320,Data Scientist
+Wisconsin (55-00000),1.243,Data Scientist
+Wyoming (56-00000),(8) -,Data Scientist
+Alabama (01-00000),25.503,Registered Nurse
+Alaska (02-00000),21.920,Registered Nurse
+Arizona (04-00000),20.155,Registered Nurse
+Arkansas (05-00000),21.970,Registered Nurse
+California (06-00000),18.093,Registered Nurse
+Colorado (08-00000),18.853,Registered Nurse
+Connecticut (09-00000),23.198,Registered Nurse
+Delaware (10-00000),27.822,Registered Nurse
+District of Columbia (11-00000),13.810,Registered Nurse
+Florida (12-00000),22.210,Registered Nurse
+Georgia (13-00000),20.059,Registered Nurse
+Guam (66-00000),10.952,Registered Nurse
+Hawaii (15-00000),21.099,Registered Nurse
+Idaho (16-00000),17.214,Registered Nurse
+Illinois (17-00000),23.066,Registered Nurse
+Indiana (18-00000),21.638,Registered Nurse
+Iowa (19-00000),21.438,Registered Nurse
+Kansas (20-00000),22.805,Registered Nurse
+Kentucky (21-00000),24.163,Registered Nurse
+Louisiana (22-00000),24.479,Registered Nurse
+Maine (23-00000),25.626,Registered Nurse
+Maryland (24-00000),17.835,Registered Nurse
+Massachusetts (25-00000),24.759,Registered Nurse
+Michigan (26-00000),23.735,Registered Nurse
+Minnesota (27-00000),22.167,Registered Nurse
+Mississippi (28-00000),25.351,Registered Nurse
+Missouri (29-00000),25.452,Registered Nurse
+Montana (30-00000),20.666,Registered Nurse
+Nebraska (31-00000),23.801,Registered Nurse
+Nevada (32-00000),18.024,Registered Nurse
+New Hampshire (33-00000),24.266,Registered Nurse
+New Jersey (34-00000),22.387,Registered Nurse
+New Mexico (35-00000),20.343,Registered Nurse
+New York (36-00000),21.392,Registered Nurse
+North Carolina (37-00000),22.153,Registered Nurse
+North Dakota (38-00000),25.953,Registered Nurse
+Ohio (39-00000),25.037,Registered Nurse
+Oklahoma (40-00000),19.426,Registered Nurse
+Oregon (41-00000),20.300,Registered Nurse
+Pennsylvania (42-00000),24.415,Registered Nurse
+Puerto Rico (72-00000),23.870,Registered Nurse
+Rhode Island (44-00000),21.796,Registered Nurse
+South Carolina (45-00000),22.143,Registered Nurse
+South Dakota (46-00000),32.017,Registered Nurse
+Tennessee (47-00000),20.765,Registered Nurse
+Texas (48-00000),18.853,Registered Nurse
+Utah (49-00000),15.078,Registered Nurse
+Vermont (50-00000),23.793,Registered Nurse
+Virgin Islands (78-00000),13.671,Registered Nurse
+Virginia (51-00000),19.048,Registered Nurse
+Washington (53-00000),18.275,Registered Nurse
+West Virginia (54-00000),30.996,Registered Nurse
+Wisconsin (55-00000),22.219,Registered Nurse
+Wyoming (56-00000),18.600,Registered Nurse
+Alabama (01-00000),8.180,Machinery Mechanic
+Alaska (02-00000),2.041,Machinery Mechanic
+Arizona (04-00000),1.393,Machinery Mechanic
+Arkansas (05-00000),5.252,Machinery Mechanic
+California (06-00000),1.428,Machinery Mechanic
+Colorado (08-00000),2.025,Machinery Mechanic
+Connecticut (09-00000),1.774,Machinery Mechanic
+Delaware (10-00000),2.173,Machinery Mechanic
+District of Columbia (11-00000),0.269,Machinery Mechanic
+Florida (12-00000),1.408,Machinery Mechanic
+Georgia (13-00000),2.680,Machinery Mechanic
+Guam (66-00000),2.275,Machinery Mechanic
+Hawaii (15-00000),1.221,Machinery Mechanic
+Idaho (16-00000),2.102,Machinery Mechanic
+Illinois (17-00000),1.560,Machinery Mechanic
+Indiana (18-00000),5.556,Machinery Mechanic
+Iowa (19-00000),3.751,Machinery Mechanic
+Kansas (20-00000),4.592,Machinery Mechanic
+Kentucky (21-00000),5.224,Machinery Mechanic
+Louisiana (22-00000),3.088,Machinery Mechanic
+Maine (23-00000),2.228,Machinery Mechanic
+Maryland (24-00000),1.118,Machinery Mechanic
+Massachusetts (25-00000),1.726,Machinery Mechanic
+Michigan (26-00000),4.294,Machinery Mechanic
+Minnesota (27-00000),2.277,Machinery Mechanic
+Mississippi (28-00000),4.321,Machinery Mechanic
+Missouri (29-00000),1.525,Machinery Mechanic
+Montana (30-00000),1.752,Machinery Mechanic
+Nebraska (31-00000),2.688,Machinery Mechanic
+Nevada (32-00000),1.611,Machinery Mechanic
+New Hampshire (33-00000),3.131,Machinery Mechanic
+New Jersey (34-00000),2.143,Machinery Mechanic
+New Mexico (35-00000),3.168,Machinery Mechanic
+New York (36-00000),1.324,Machinery Mechanic
+North Carolina (37-00000),3.195,Machinery Mechanic
+North Dakota (38-00000),6.507,Machinery Mechanic
+Ohio (39-00000),3.651,Machinery Mechanic
+Oklahoma (40-00000),3.690,Machinery Mechanic
+Oregon (41-00000),3.300,Machinery Mechanic
+Pennsylvania (42-00000),3.076,Machinery Mechanic
+Puerto Rico (72-00000),3.389,Machinery Mechanic
+Rhode Island (44-00000),2.075,Machinery Mechanic
+South Carolina (45-00000),4.191,Machinery Mechanic
+South Dakota (46-00000),2.808,Machinery Mechanic
+Tennessee (47-00000),3.084,Machinery Mechanic
+Texas (48-00000),4.127,Machinery Mechanic
+Utah (49-00000),2.291,Machinery Mechanic
+Vermont (50-00000),2.324,Machinery Mechanic
+Virginia (51-00000),2.338,Machinery Mechanic
+Washington (53-00000),2.911,Machinery Mechanic
+West Virginia (54-00000),4.506,Machinery Mechanic
+Wisconsin (55-00000),4.960,Machinery Mechanic
+Wyoming (56-00000),8.232,Machinery Mechanic
+Alabama (01-00000),2.138,Electrical Engineer
+Alaska (02-00000),1.187,Electrical Engineer
+Arizona (04-00000),1.554,Electrical Engineer
+Arkansas (05-00000),0.722,Electrical Engineer
+California (06-00000),1.310,Electrical Engineer
+Colorado (08-00000),1.650,Electrical Engineer
+Connecticut (09-00000),1.734,Electrical Engineer
+Delaware (10-00000),1.268,Electrical Engineer
+District of Columbia (11-00000),0.729,Electrical Engineer
+Florida (12-00000),0.753,Electrical Engineer
+Georgia (13-00000),0.944,Electrical Engineer
+Guam (66-00000),2.795,Electrical Engineer
+Hawaii (15-00000),1.573,Electrical Engineer
+Idaho (16-00000),1.090,Electrical Engineer
+Illinois (17-00000),0.960,Electrical Engineer
+Indiana (18-00000),1.212,Electrical Engineer
+Iowa (19-00000),0.799,Electrical Engineer
+Kansas (20-00000),1.618,Electrical Engineer
+Kentucky (21-00000),0.804,Electrical Engineer
+Louisiana (22-00000),0.447,Electrical Engineer
+Maine (23-00000),1.530,Electrical Engineer
+Maryland (24-00000),1.594,Electrical Engineer
+Massachusetts (25-00000),1.312,Electrical Engineer
+Michigan (26-00000),2.470,Electrical Engineer
+Minnesota (27-00000),1.174,Electrical Engineer
+Mississippi (28-00000),1.061,Electrical Engineer
+Missouri (29-00000),1.000,Electrical Engineer
+Montana (30-00000),1.266,Electrical Engineer
+Nebraska (31-00000),1.066,Electrical Engineer
+Nevada (32-00000),0.484,Electrical Engineer
+New Hampshire (33-00000),2.075,Electrical Engineer
+New Jersey (34-00000),0.851,Electrical Engineer
+New Mexico (35-00000),1.836,Electrical Engineer
+New York (36-00000),0.809,Electrical Engineer
+North Carolina (37-00000),1.340,Electrical Engineer
+North Dakota (38-00000),0.620,Electrical Engineer
+Ohio (39-00000),1.092,Electrical Engineer
+Oklahoma (40-00000),1.094,Electrical Engineer
+Oregon (41-00000),1.542,Electrical Engineer
+Pennsylvania (42-00000),1.273,Electrical Engineer
+Puerto Rico (72-00000),0.640,Electrical Engineer
+Rhode Island (44-00000),1.328,Electrical Engineer
+South Carolina (45-00000),1.081,Electrical Engineer
+South Dakota (46-00000),0.979,Electrical Engineer
+Tennessee (47-00000),0.785,Electrical Engineer
+Texas (48-00000),1.117,Electrical Engineer
+Utah (49-00000),1.125,Electrical Engineer
+Vermont (50-00000),2.983,Electrical Engineer
+Virginia (51-00000),1.474,Electrical Engineer
+Washington (53-00000),2.829,Electrical Engineer
+West Virginia (54-00000),0.871,Electrical Engineer
+Wisconsin (55-00000),1.358,Electrical Engineer
+Wyoming (56-00000),0.944,Electrical Engineer
+Alabama (01-00000),0.268,Urban and Regional Planning
+Alaska (02-00000),0.840,Urban and Regional Planning
+Arizona (04-00000),0.348,Urban and Regional Planning
+Arkansas (05-00000),0.068,Urban and Regional Planning
+California (06-00000),0.422,Urban and Regional Planning
+Colorado (08-00000),0.437,Urban and Regional Planning
+Connecticut (09-00000),0.228,Urban and Regional Planning
+Delaware (10-00000),0.733,Urban and Regional Planning
+District of Columbia (11-00000),0.197,Urban and Regional Planning
+Florida (12-00000),0.269,Urban and Regional Planning
+Georgia (13-00000),0.220,Urban and Regional Planning
+Guam (66-00000),0.774,Urban and Regional Planning
+Hawaii (15-00000),0.725,Urban and Regional Planning
+Idaho (16-00000),0.456,Urban and Regional Planning
+Illinois (17-00000),0.197,Urban and Regional Planning
+Indiana (18-00000),0.161,Urban and Regional Planning
+Iowa (19-00000),0.180,Urban and Regional Planning
+Kansas (20-00000),0.242,Urban and Regional Planning
+Kentucky (21-00000),0.097,Urban and Regional Planning
+Louisiana (22-00000),0.131,Urban and Regional Planning
+Maine (23-00000),0.341,Urban and Regional Planning
+Maryland (24-00000),0.293,Urban and Regional Planning
+Massachusetts (25-00000),0.430,Urban and Regional Planning
+Michigan (26-00000),0.243,Urban and Regional Planning
+Minnesota (27-00000),0.283,Urban and Regional Planning
+Mississippi (28-00000),0.183,Urban and Regional Planning
+Missouri (29-00000),0.137,Urban and Regional Planning
+Montana (30-00000),0.457,Urban and Regional Planning
+Nebraska (31-00000),0.333,Urban and Regional Planning
+Nevada (32-00000),0.160,Urban and Regional Planning
+New Hampshire (33-00000),0.306,Urban and Regional Planning
+New Jersey (34-00000),0.175,Urban and Regional Planning
+New Mexico (35-00000),0.477,Urban and Regional Planning
+New York (36-00000),0.220,Urban and Regional Planning
+North Carolina (37-00000),0.335,Urban and Regional Planning
+North Dakota (38-00000),0.195,Urban and Regional Planning
+Ohio (39-00000),0.120,Urban and Regional Planning
+Oklahoma (40-00000),0.196,Urban and Regional Planning
+Oregon (41-00000),0.561,Urban and Regional Planning
+Pennsylvania (42-00000),0.182,Urban and Regional Planning
+Puerto Rico (72-00000),0.098,Urban and Regional Planning
+Rhode Island (44-00000),0.381,Urban and Regional Planning
+South Carolina (45-00000),0.194,Urban and Regional Planning
+South Dakota (46-00000),0.573,Urban and Regional Planning
+Tennessee (47-00000),0.074,Urban and Regional Planning
+Texas (48-00000),0.155,Urban and Regional Planning
+Utah (49-00000),0.319,Urban and Regional Planning
+Vermont (50-00000),0.460,Urban and Regional Planning
+Virginia (51-00000),0.420,Urban and Regional Planning
+Washington (53-00000),0.802,Urban and Regional Planning
+West Virginia (54-00000),0.254,Urban and Regional Planning
+Wisconsin (55-00000),0.283,Urban and Regional Planning
+Wyoming (56-00000),0.343,Urban and Regional Planning
+Alabama (01-00000),2.779,Lawyer
+Alaska (02-00000),3.224,Lawyer
+Arizona (04-00000),3.794,Lawyer
+Arkansas (05-00000),2.718,Lawyer
+California (06-00000),5.127,Lawyer
+Colorado (08-00000),5.934,Lawyer
+Connecticut (09-00000),4.458,Lawyer
+Delaware (10-00000),6.242,Lawyer
+District of Columbia (11-00000),47.167,Lawyer
+Florida (12-00000),6.009,Lawyer
+Georgia (13-00000),4.737,Lawyer
+Guam (66-00000),2.532,Lawyer
+Hawaii (15-00000),3.917,Lawyer
+Idaho (16-00000),2.452,Lawyer
+Illinois (17-00000),5.512,Lawyer
+Indiana (18-00000),2.671,Lawyer
+Iowa (19-00000),2.276,Lawyer
+Kansas (20-00000),2.982,Lawyer
+Kentucky (21-00000),3.202,Lawyer
+Louisiana (22-00000),4.504,Lawyer
+Maine (23-00000),3.273,Lawyer
+Maryland (24-00000),5.978,Lawyer
+Massachusetts (25-00000),6.045,Lawyer
+Michigan (26-00000),3.658,Lawyer
+Minnesota (27-00000),4.409,Lawyer
+Mississippi (28-00000),2.761,Lawyer
+Missouri (29-00000),4.096,Lawyer
+Montana (30-00000),4.823,Lawyer
+Nebraska (31-00000),3.417,Lawyer
+Nevada (32-00000),4.006,Lawyer
+New Hampshire (33-00000),(8) -,Lawyer
+New Jersey (34-00000),5.495,Lawyer
+New Mexico (35-00000),3.641,Lawyer
+New York (36-00000),9.583,Lawyer
+North Carolina (37-00000),3.548,Lawyer
+North Dakota (38-00000),2.530,Lawyer
+Ohio (39-00000),3.563,Lawyer
+Oklahoma (40-00000),4.393,Lawyer
+Oregon (41-00000),3.914,Lawyer
+Pennsylvania (42-00000),4.380,Lawyer
+Puerto Rico (72-00000),4.213,Lawyer
+Rhode Island (44-00000),3.872,Lawyer
+South Carolina (45-00000),3.200,Lawyer
+South Dakota (46-00000),2.495,Lawyer
+Tennessee (47-00000),2.696,Lawyer
+Texas (48-00000),3.949,Lawyer
+Utah (49-00000),3.420,Lawyer
+Vermont (50-00000),3.780,Lawyer
+Virgin Islands (78-00000),4.869,Lawyer
+Virginia (51-00000),4.533,Lawyer
+Washington (53-00000),3.713,Lawyer
+West Virginia (54-00000),3.504,Lawyer
+Wisconsin (55-00000),3.015,Lawyer
+Wyoming (56-00000),3.387,Lawyer
+Alabama (01-00000),0.962,Graphic Designer
+Alaska (02-00000),0.475,Graphic Designer
+Arizona (04-00000),1.355,Graphic Designer
+Arkansas (05-00000),1.129,Graphic Designer
+California (06-00000),1.568,Graphic Designer
+Colorado (08-00000),1.632,Graphic Designer
+Connecticut (09-00000),1.176,Graphic Designer
+Delaware (10-00000),0.887,Graphic Designer
+District of Columbia (11-00000),1.807,Graphic Designer
+Florida (12-00000),1.427,Graphic Designer
+Georgia (13-00000),1.114,Graphic Designer
+Guam (66-00000),1.244,Graphic Designer
+Hawaii (15-00000),0.817,Graphic Designer
+Idaho (16-00000),1.153,Graphic Designer
+Illinois (17-00000),1.302,Graphic Designer
+Indiana (18-00000),1.405,Graphic Designer
+Iowa (19-00000),1.426,Graphic Designer
+Kansas (20-00000),1.453,Graphic Designer
+Kentucky (21-00000),0.957,Graphic Designer
+Louisiana (22-00000),0.626,Graphic Designer
+Maine (23-00000),0.925,Graphic Designer
+Maryland (24-00000),1.414,Graphic Designer
+Massachusetts (25-00000),1.342,Graphic Designer
+Michigan (26-00000),1.364,Graphic Designer
+Minnesota (27-00000),1.869,Graphic Designer
+Mississippi (28-00000),0.792,Graphic Designer
+Missouri (29-00000),1.268,Graphic Designer
+Montana (30-00000),1.277,Graphic Designer
+Nebraska (31-00000),1.750,Graphic Designer
+Nevada (32-00000),1.291,Graphic Designer
+New Hampshire (33-00000),0.994,Graphic Designer
+New Jersey (34-00000),1.381,Graphic Designer
+New Mexico (35-00000),1.365,Graphic Designer
+New York (36-00000),1.754,Graphic Designer
+North Carolina (37-00000),1.472,Graphic Designer
+North Dakota (38-00000),1.170,Graphic Designer
+Ohio (39-00000),1.269,Graphic Designer
+Oklahoma (40-00000),1.047,Graphic Designer
+Oregon (41-00000),1.569,Graphic Designer
+Pennsylvania (42-00000),1.376,Graphic Designer
+Puerto Rico (72-00000),1.329,Graphic Designer
+Rhode Island (44-00000),1.661,Graphic Designer
+South Carolina (45-00000),0.877,Graphic Designer
+South Dakota (46-00000),1.040,Graphic Designer
+Tennessee (47-00000),1.280,Graphic Designer
+Texas (48-00000),1.398,Graphic Designer
+Utah (49-00000),1.797,Graphic Designer
+Vermont (50-00000),1.554,Graphic Designer
+Virginia (51-00000),1.354,Graphic Designer
+Washington (53-00000),1.542,Graphic Designer
+West Virginia (54-00000),0.764,Graphic Designer
+Wisconsin (55-00000),1.585,Graphic Designer
+Wyoming (56-00000),0.883,Graphic Designer
